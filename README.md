@@ -4,4 +4,4 @@
 pipenv install
 pipenv run sphinx-build docs/ dist/
 ```
-Browse the content of both pages with you favorite httml server.
+Browse the content of both pages with you favorite http server.
