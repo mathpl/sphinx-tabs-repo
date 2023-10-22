@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+sphinx = "==7.1.2"
+sphinxcontrib-spelling = "==8.0.0"
+sphinx-autobuild = "==2021.3.14"
+pydata-sphinx-theme = "==0.14.1"
+sphinx-tabs = "==3.4.1"
+myst-parser = "==2.0.0"
+Jinja2 = "3.1.2"
+attrs = "*"
+pyyaml = "==6.0.1"
+
+[requires]
+python_version = "3"

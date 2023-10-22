@@ -1,0 +1,13 @@
+[
+    {
+        "name": "latest",
+        "version": "latest",
+        "url": "http://localhost:8000/"
+    },
+    {
+        "name": "v1.0",
+        "version": "v1.0",
+        "url": "http://localhost:8000/v1.0/",
+        "preferred": true
+    }
+]
